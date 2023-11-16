@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script:wght@500&family=Great+Vibes&display=swap');
+
+body {
+    font-family: 'Dancing Script' ,cursive;
+    font-size: x-large;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #E2DAD3;
+}
+
+h1 {
+    font-size: larger;
+}
+
+header {
+    background-color: #48B8D0;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FFF6E4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
